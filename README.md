@@ -4,6 +4,7 @@
 # Pontos importantes: 
 - Facilitar o acesso a informação.
 - Compartilhar a variedades de cursos.
-
+# O que foi utilizado?
+-Conhecimentos utilizados em sala de aula.
 ![image](https://github.com/terezafabiula/parcialappufc/assets/150807884/71dd9ce0-e69e-4a85-bead-85a0dadf77d1)
 
